@@ -24,4 +24,7 @@ hs_err_pid*
 replay_pid*
 
 .metadata
-.target
+target
+code/calcolatoreJava/.settings/org.eclipse.core.resources.prefs
+code/calcolatoreJava/.settings/org.eclipse.jdt.core.prefs
+code/calcolatoreJava/.settings/org.eclipse.m2e.core.prefs
