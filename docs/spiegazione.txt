@@ -1,2 +1,3 @@
 ecco la spiegazione del progetto
 - Alessandro Mangini
+- Marco Forcella
